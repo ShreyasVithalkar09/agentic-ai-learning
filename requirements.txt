@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+groq
+sqlalchemy
+pgvector
+pypdf
+psycopg[binary]
+duckduckgo-search
+phidata
+python-dotenv
+packaging
+openai
+lancedb
+google-generativeai
+sentence-transformers
+google-genai
